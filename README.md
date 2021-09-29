@@ -1,1 +1,1 @@
-# data_science_lehrpfad
+Dieser Lehrpfad gibt einen Überblick über das interdisziplinäre Feld Data Science und stellt grundlegende Theorien, Methoden und Werkzeuge im Kontext der quantitativen Textanalyse vor. Ziel dieses Lehrpfades ist es, Geistes- und Kulturwissenschaftler*Innen für den Umgang mit heterogenen, materiellen und immateriellen Forschungsdaten zu sensibilisieren und Forschende dabei zu unterstützen geeignete Methoden und Werkzeuge für ihr Forschungsvorhaben zu finden.
